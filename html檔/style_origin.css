@@ -35,8 +35,8 @@ button{
     transition-duration: 0.4s;
   }
 button:hover {
-    background-color: rgb(231, 228, 133);
-    color: rgb(255, 255, 255);
+    background-color: #D0D0D0;
+    color:#D0D0D0;
   }
 .align-center{
   width: 800px;
